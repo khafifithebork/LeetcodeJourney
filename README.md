@@ -14,16 +14,7 @@
 
 ---
 
-## 📊 Stats
 
-| Metric         | Status |
-|----------------|--------|
-| **Easy**       | ✅ In Progress |
-| **Medium**     | 🔶 In Progress |
-| **Hard**       | 🔴 In Progress |
-| **Sync**       | 🤖 Automated  |
-
----
 
 ## 📁 Repository Structure
 
