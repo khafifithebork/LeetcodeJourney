@@ -3,7 +3,7 @@ name: Sync Leetcode
 on:
   workflow_dispatch:       # Allows you to manually trigger the sync
   schedule:
-    - cron: "* * * * *"
+    - cron: "0 */6 * * *"
 
 permissions:
   contents: write  
