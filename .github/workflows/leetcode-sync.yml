@@ -6,7 +6,7 @@ on:
     - cron: "0 */6 * * *"
 
 permissions:
-  contents: write  
+  contents: write
 
 jobs:
   build:
@@ -14,7 +14,12 @@ jobs:
 
     steps:
       - name: Sync
-        uses: joshcai/leetcode-sync@master
+        # NOTE: If this step fails with "submissionList.submissions is not iterable",
+        # your LEETCODE_SESSION and LEETCODE_CSRF_TOKEN secrets have expired.
+        # To fix: log into leetcode.com, open browser DevTools → Network, refresh the
+        # page, find a request to leetcode.com, and copy the fresh `csrftoken` and
+        # `LEETCODE_SESSION` cookie values into your repository's GitHub Secrets.
+        uses: joshcai/leetcode-sync@v1.7
         with:
           github-token: ${{ github.token }}
           leetcode-csrf-token: ${{ secrets.LEETCODE_CSRF_TOKEN }}
