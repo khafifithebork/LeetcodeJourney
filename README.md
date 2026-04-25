@@ -6,36 +6,18 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![GitHub last commit](https://img.shields.io/github/last-commit/khafifithebork/leetcode?style=for-the-badge&logo=git&logoColor=white)
 
-**My personal collection of LeetCode solutions, automatically synced via GitHub Actions.**
+**Getting things done.**
 
-[LeetCode Profile](https://leetcode.com/) · [View Solutions](#-solutions) · [How It Works](#-how-it-works)
+[LeetCode Profile]([https://leetcode.com/u/kamithebork/]) · [How It Works](#-how-it-works)
 
 </div>
-
----
-
-
-
-## 📁 Repository Structure
-
-```
-📦 leetcode
-├── 📂 .github/workflows
-│   └── 📄 leetcode-sync.yml   # GitHub Actions workflow
-├── 📂 solutions               # Auto-synced solutions
-│   ├── 📄 1-two-sum.py
-│   ├── 📄 2-add-two-numbers.py
-│   └── ...
-└── 📄 README.md
-```
-
 ---
 
 ## 🔄 How It Works
 
 This repository uses the [**LeetCode Sync**](https://github.com/joshcai/leetcode-sync) GitHub Action to automatically sync accepted LeetCode submissions to this repo.
 
-- ⏰ **Schedule**: Syncs every **Saturday at 8:00 AM UTC** (configurable via cron)
+- ⏰ **Schedule**: Syncs every **6 Hours daily** (configurable via cron)
 - 🖱️ **Manual Trigger**: Can also be triggered manually from the **Actions** tab
 - 🔒 **Secure**: LeetCode credentials are stored as encrypted GitHub Secrets
 
@@ -90,8 +72,6 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-
-**⭐ Star this repo if you find it useful!**
 
 Made with ❤️ and lots of ☕
 
