@@ -11,7 +11,6 @@
 [LeetCode Profile]([https://leetcode.com/u/kamithebork/]) · [How It Works](#-how-it-works)
 
 </div>
----
 
 ## 🔄 How It Works
 
