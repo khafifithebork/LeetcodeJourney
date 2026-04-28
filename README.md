@@ -4,7 +4,6 @@
 
 ![LeetCode Sync](https://img.shields.io/badge/Sync-Automated-brightgreen?style=for-the-badge&logo=github-actions)
 ![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![GitHub last commit](https://img.shields.io/github/last-commit/khafifithebork/leetcode?style=for-the-badge&logo=git&logoColor=white)
 
 **Getting things done.**
 
@@ -54,24 +53,9 @@ The workflow file at `.github/workflows/leetcode-sync.yml` will automatically ru
 
 ---
 
-## 🛠️ Technologies
-
-<p align="center">
-  <img src="[https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white]" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-</p>
-
----
-
 ## 📜 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
 ---
-
-<div align="center">
-
-Made with ❤️ and lots of ☕
-
 </div>
