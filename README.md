@@ -7,7 +7,7 @@
 
 **Getting things done.**
 
-[LeetCode Profile]([https://leetcode.com/u/kamithebork/]) · [How It Works](#-how-it-works)
+[LeetCode Profile](#[https://leetcode.com/u/kamithebork/]) · [How It Works](#-how-it-works)
 
 </div>
 
